@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Roboto&center=true&size=32&vCenter=true&height=80&pause=100&duration=4000&lines=👋🏻+Hi,+I'm+YehorSamafalov;Project+Nanager+at+TehHavenLabs;" alt="title" /> 
+<img src="https://readme-typing-svg.herokuapp.com?font=Roboto&center=true&size=32&vCenter=true&height=80&pause=100&duration=4000&lines=Welcome+to+TehHavenLabs;" alt="title" /> 
 </p>
 
 <div align="center">
